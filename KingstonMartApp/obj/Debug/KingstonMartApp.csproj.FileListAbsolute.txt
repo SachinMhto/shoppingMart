@@ -1,0 +1,16 @@
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\bin\Debug\KingstonMartApp.exe.config
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\bin\Debug\KingstonMartApp.exe
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\bin\Debug\KingstonMartApp.pdb
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.csproj.AssemblyReference.cache
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.Properties.Resources.resources
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.csproj.GenerateResource.cache
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.csproj.CoreCompileInputs.cache
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.exe
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.pdb
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.Mart.resources
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.LoginForm.resources
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.RegistrationForm.resources
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.AddFormItem.resources
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.EditItem.resources
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.ViewData.resources
+C:\Users\sujus\source\repos\KingstonMartApp\KingstonMartApp\obj\Debug\KingstonMartApp.AllSales.resources
